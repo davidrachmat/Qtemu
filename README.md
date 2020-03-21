@@ -1,2 +1,0 @@
-# Qtemu
-Created with CodeSandbox
